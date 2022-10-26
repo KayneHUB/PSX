@@ -1,6 +1,6 @@
 🎃 Pet Simulator X! 🐾
 
-![image](https://user-images.githubusercontent.com/116743185/198071682-b0b585cf-a50f-4849-aa93-526f2bf01a48.png)
+![image](https://user-images.githubusercontent.com/116743185/198071964-308bd731-b149-4b0b-be79-a7293cd64c0c.png)
 
 Features;
 - Fast Cursed Egg Hatcher (Single and Triple)
